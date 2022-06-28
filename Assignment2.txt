@@ -3,9 +3,14 @@
   . a variable defined outside a function can be accessible inside another function defined after the variable declaration 
   . But the opposite is not true; the variables defined inside a function will not be accessible outside that function
 
-2. unicode 
+2. Unicode 
   .In Javascript, the identifiers and string literals can be expressed in Unicode via a Unicode escape sequence.
   . The general syntax is \uXXXX
+  
+3. Keywords in js( * which one all or reserved key words)
+ . 
 
-
+4. use strict mode
+ . Strict mode changes previously accepted "bad syntax" into real errors
+ . it makes impossible to accidentally create a global variable
    
