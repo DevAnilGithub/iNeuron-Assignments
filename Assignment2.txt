@@ -1,0 +1,11 @@
+
+1. lexical scope
+  . a variable defined outside a function can be accessible inside another function defined after the variable declaration 
+  . But the opposite is not true; the variables defined inside a function will not be accessible outside that function
+
+2. unicode 
+  .In Javascript, the identifiers and string literals can be expressed in Unicode via a Unicode escape sequence.
+  . The general syntax is \uXXXX
+
+
+   
