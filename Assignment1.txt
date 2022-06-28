@@ -1,0 +1,25 @@
+
+1. Uses of javascript
+
+  . JavaScript is an interpreted, full-fledged programming language.
+  . Now days we can do multiple things using js like web design and applications ,frontend to backend handeling,etc.
+
+2. The difference between client-side and server-side is
+
+  . Client-side developers focus on creating the parts of a website or application that users can see, such as visual design elements and web page layouts. 
+    Ex-Languages used: HTML, CSS, JavaScript
+  . Server-side developers focus more on behind-the-scenes components like how an application transmits data to a server.
+  . Ex- Languages used: PHP, Python
+
+3. The difference between client-side and server-side is
+
+  . Node.js is an open source server environment or engine to used JavaScript on the server.
+
+4. Scope in JavaScript
+
+  . Scope determines the accessibility of variables.
+
+5. JavaScript is a single threaded language.
+
+6. It is an API for HTML & XML, used to define the logical structure of documents.
+   
